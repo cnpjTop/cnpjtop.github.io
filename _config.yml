@@ -3,11 +3,11 @@
 title: cnpj.top
 email: renato@dinheiro.tech
 description: >- # this means to ignore newlines until "baseurl:"
-  Dinheiro.Tech
+  cnpj.top
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cnpj.top" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: renatomb
-github_username:  renatomb
+github_username:  cnpjtop
 
 # Build settings
 # theme: minima
